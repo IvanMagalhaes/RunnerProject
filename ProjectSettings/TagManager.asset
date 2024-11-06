@@ -36,8 +36,11 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - chao
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: chao
+    uniqueID: 3587769983
     locked: 0

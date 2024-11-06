@@ -385,7 +385,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -431,7 +431,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RBPlayer: {fileID: 1794238927}
-  velocidade: 20
+  velocidade: 0
+  animacoesPlayer: {fileID: 1794238928}
+  ObjAuxiliar: {fileID: 1048006892}
+  LayerPlataforma:
+    serializedVersion: 2
+    m_Bits: 2147483648
+  NoChao: 0
+  ForcaPulo: 620
 --- !u!1 &2107655909
 GameObject:
   m_ObjectHideFlags: 0
