@@ -431,7 +431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RBPlayer: {fileID: 1794238927}
-  velocidade: 0
+  velocidade: 10
   animacoesPlayer: {fileID: 1794238928}
   ObjAuxiliar: {fileID: 1048006892}
   LayerPlataforma:
@@ -470,7 +470,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TamanhoPlataforma: 23.6
   Player: {fileID: 1794238926}
-  Plataforma: {fileID: 5343264342033791999, guid: dd037384879b6a34da26d54696462713, type: 3}
+  Plataforma: {fileID: 9213544353398261718, guid: 863a9e7342f3a7042bfa44d1f37fd97f, type: 3}
 --- !u!4 &2107655911
 Transform:
   m_ObjectHideFlags: 0
